@@ -6,16 +6,18 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "React",
-    "TypeScript",
+    "Spring Boot",
+    "Java",
     "JavaScript",
     "HTML5",
     "CSS3",
     "SASS",
-    "Flask",
-    "Python",
+    "React",
+    "Angular",
     "SQL",
-    "PostgreSQL",
+    "MySQL",
+    "RabbitMQ",
+    "Redis",
     "Postman"
 ];
 
@@ -26,19 +28,19 @@ const labelsSecond = [
     "AWS",
     "Azure",
     "Linux",
-    "Snowflake",
-    "Pandas",
-    "Selenium",
+    "Docker Swarm",
+    "Kubernetes",
+    "AGILE",
 ];
 
 const labelsThird = [
     "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "Spring AI",
+    "Prompt Engineering",
+    "AI Agents",
+    "Vibe coding",
+    "Gen AI",
+    "Content Generation",
 ];
 
 function Expertise() {
